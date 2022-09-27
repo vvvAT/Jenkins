@@ -1,0 +1,2 @@
+javac jenkinsDemo.java
+java JenkinsDemo
